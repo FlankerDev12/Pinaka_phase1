@@ -1,1 +1,9 @@
+Phase-1 Baseline Results
+
+Accuracy: 83.9%
+Precision: 0.84
+Recall: 0.82
+
+Model: MobileNetV2 (Transfer Learning)
+Framework: PyTorch
 
